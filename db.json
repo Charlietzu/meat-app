@@ -521,6 +521,26 @@
         }
       ],
       "id": 9
+    },
+    {
+      "name": "Caio César",
+      "email": "caio@gmail.com",
+      "emailConfirmation": "caio@gmail.com",
+      "address": "Rua M",
+      "number": "100",
+      "optionalAddress": "201",
+      "paymentOptions": "REF",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "cup-cake"
+        },
+        {
+          "quantity": 1,
+          "menuId": "donut"
+        }
+      ],
+      "id": 10
     }
   ]
 }
