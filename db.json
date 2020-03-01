@@ -541,6 +541,26 @@
         }
       ],
       "id": 10
+    },
+    {
+      "name": "Caio César ",
+      "email": "c@gmail.com",
+      "emailConfirmation": "c@gmail.com",
+      "address": "Rua Manoel",
+      "number": "100",
+      "optionalAddress": "201",
+      "paymentOptions": "MON",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "capp"
+        },
+        {
+          "quantity": 1,
+          "menuId": "espreso"
+        }
+      ],
+      "id": 11
     }
   ]
 }
